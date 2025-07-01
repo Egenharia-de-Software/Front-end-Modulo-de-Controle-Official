@@ -16,3 +16,5 @@ This contains everything you need to run your app locally.
 Deploy do site
 
 [https://tf-soft.vercel.app/]
+
+Alunos: Edward, Felipe Teixeira, Gabriel Soares, Gregory Natali, João Teixeira, Vinicius Pereira
